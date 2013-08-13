@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/jilongs-cspp51050-spr-13/!svn/ver/14/final/Game/src/edu/uchicago/cs/OO/sounds
+END
+laser.wav
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/jilongs-cspp51050-spr-13/!svn/ver/14/final/Game/src/edu/uchicago/cs/OO/sounds/laser.wav
+END
+Sound.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/jilongs-cspp51050-spr-13/!svn/ver/14/final/Game/src/edu/uchicago/cs/OO/sounds/Sound.java
+END
+shipspawn.wav
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/jilongs-cspp51050-spr-13/!svn/ver/14/final/Game/src/edu/uchicago/cs/OO/sounds/shipspawn.wav
+END
+music-background.wav
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/jilongs-cspp51050-spr-13/!svn/ver/14/final/Game/src/edu/uchicago/cs/OO/sounds/music-background.wav
+END
+pacman_eatghost.wav
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/jilongs-cspp51050-spr-13/!svn/ver/14/final/Game/src/edu/uchicago/cs/OO/sounds/pacman_eatghost.wav
+END
+shieldup.wav
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/jilongs-cspp51050-spr-13/!svn/ver/14/final/Game/src/edu/uchicago/cs/OO/sounds/shieldup.wav
+END
+whitenoise.wav
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/jilongs-cspp51050-spr-13/!svn/ver/14/final/Game/src/edu/uchicago/cs/OO/sounds/whitenoise.wav
+END
